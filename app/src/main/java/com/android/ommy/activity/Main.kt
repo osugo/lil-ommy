@@ -1,7 +1,8 @@
-package com.android.ommy
+package com.android.ommy.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.android.ommy.R
 
 class Main : AppCompatActivity() {
 
